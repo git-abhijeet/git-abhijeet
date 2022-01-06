@@ -9,3 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 Profiencies <br> <br>
 ![89734383-7827e580-da79-11ea-9840-299bc8b32335](https://user-images.githubusercontent.com/91535285/148386199-3a6fc9b1-47a0-47e6-939f-e449514415fc.jpg)
+<br>
+
+Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer
