@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Abhijeet Kumar
 - 👀 I’m interested in Computer Games
 - 🌱 I’m currently learning MERN stack
-- 📫 How to reach me akc972527@gmail.com
+- 📫 How to reach me 
+- My Email Id   - akc972527@gmail.com
+- My Portfolio  - https://portfolio1-abhi972527.vercel.app/
+- My LinkedIn   - https://www.linkedin.com/in/abhijeet-kumar-0238301bb/
 
 <!---
 abhi972527/abhi972527 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
