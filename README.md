@@ -11,9 +11,9 @@
 - ⚡ **When am not coding you can find me watching movies, listening to music, or reading non-fiction books.**
 
 - 📫 How to reach me 
-- My Email Id   - akc972527@gmail.com
-- My Portfolio  - https://portfolio1-abhi972527.vercel.app/
-- My LinkedIn   - https://www.linkedin.com/in/abhijeet-kumar-0238301bb/
+- My Email Id   - abhijeet.kr.chaurasiya@gmail.com
+- My Portfolio  - https://git-abhijeet.github.io
+- My LinkedIn   - https://www.linkedin.com/in/abhijeet-kumar-0238301bb
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
